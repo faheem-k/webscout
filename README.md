@@ -43,7 +43,7 @@ That's WebScout.
 
 ```bash
 # No install. No pip. Just run.
-git clone https://github.com/yourhandle/webscout
+git clone https://github.com/faheem-k/webscout
 cd webscout
 python scanner.py https://your-target.com
 ```
